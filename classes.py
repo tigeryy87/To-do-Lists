@@ -1,4 +1,4 @@
-"""Final Project (Command line task manager)
+"""Project (Command line task manager)
 
 Tiger Chen
 """
